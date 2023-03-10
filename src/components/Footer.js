@@ -8,7 +8,8 @@ function Footer(){
         <div className='socialMedia'>
         <BsInstagram /> <BsTwitter /> <BsFacebook /> <BsLinkedin />
         </div>
-        <p>&copy; 2023 pizzapizza.com</p>
+        <p>&copy; 2023 pizzaplace.com</p>
+        <p>555-555-5555</p>
     </div>
   )
 }
